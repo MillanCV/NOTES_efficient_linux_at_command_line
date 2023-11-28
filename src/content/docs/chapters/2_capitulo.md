@@ -1,5 +1,7 @@
 ---
-title: Example Guide
+title: Capitulo 2
+sidebar:
+    order: 2
 description: A guide in my new Starlight docs site.
 ---
 
